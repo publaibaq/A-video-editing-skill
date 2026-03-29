@@ -1,0 +1,21 @@
+{
+  "name": "PublAI",
+  "colors": {
+    "primary": "#61BA5E",
+    "primaryLight": "#7DD47A",
+    "dark": "#1A1A1A",
+    "background": "#0D0D0D",
+    "text": "#FFFFFF"
+  },
+  "fonts": {
+    "heading": "Playfair Display, serif",
+    "body": "Inter, sans-serif",
+    "mono": "JetBrains Mono, monospace"
+  },
+  "videoProfile": {
+    "resolution": "1920x1080",
+    "fps": 30,
+    "codec": "h264",
+    "quality": 18
+  }
+}
